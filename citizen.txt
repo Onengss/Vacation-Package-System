@@ -1,0 +1,3 @@
+| Category | SkyCab(RM) | SkyRex(RM) | SkyDome(RM) |
+|  Adult   |	 25     |     15     |     10      |
+|  Child   |	 20     |     12     |      7      |
